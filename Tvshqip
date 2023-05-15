@@ -1,0 +1,113 @@
+
+#AL 🇦🇱
+http://185.85.152.220:8787/playlist.m3u8
+
+
+#EXTINF:-1,A2 CNN HD
+http://185.85.152.220:8787/play/106/index.m3u8
+#EXTINF:-1,ABC HD
+http://185.85.152.220:8787/play/58/index.m3u8
+#EXTINF:-1,ATV AVRUPA
+http://185.85.152.220:8787/play/a06g/index.m3u8
+#EXTINF:-1,Adria Net
+http://185.85.152.220:8787/play/a05o/index.m3u8
+#EXTINF:-1,BBC World News
+http://185.85.152.220:8787/play/a060/index.m3u8
+#EXTINF:-1,CNN Int.
+http://185.85.152.220:8787/play/a064/index.m3u8
+#EXTINF:-1,EURO D
+http://185.85.152.220:8787/play/a06i/index.m3u8
+#EXTINF:-1,EUROSTAR
+http://185.85.152.220:8787/play/a06h/index.m3u8
+#EXTINF:-1,Elrodi
+http://185.85.152.220:8787/play/a05s/index.m3u8
+#EXTINF:-1,Euro News HD
+http://185.85.152.220:8787/play/66/index.m3u8
+#EXTINF:-1,KLAN UHD
+http://185.85.152.220:8787/play/500/index.m3u8
+#EXTINF:-1,Klan Maqedonia
+http://185.85.152.220:8787/play/68/index.m3u8
+#EXTINF:-1,Klan Music HD
+http://185.85.152.220:8787/play/67/index.m3u8
+#EXTINF:-1,Klan News
+http://185.85.152.220:8787/play/60/index.m3u8
+#EXTINF:-1,Klan Plus HD
+http://185.85.152.220:8787/play/57/index.m3u8
+#EXTINF:-1,MCN TV HD
+http://185.85.152.220:8787/play/63/index.m3u8
+#EXTINF:-1,NITRO
+http://185.85.152.220:8787/play/a05b/index.m3u8
+#EXTINF:-1,Neser TV
+http://185.85.152.220:8787/play/a061/index.m3u8
+#EXTINF:-1,O1
+http://185.85.152.220:8787/play/444/index.m3u8
+#EXTINF:-1,O2
+http://185.85.152.220:8787/play/454/index.m3u8
+#EXTINF:-1,O3
+http://185.85.152.220:8787/play/470/index.m3u8
+#EXTINF:-1,O4
+http://185.85.152.220:8787/play/469/index.m3u8
+#EXTINF:-1,PANORAMA TV
+http://185.85.152.220:8787/play/115/index.m3u8
+#EXTINF:-1,Premium Channel
+http://185.85.152.220:8787/play/a06f/index.m3u8
+#EXTINF:-1,RTK
+http://185.85.152.220:8787/play/a068/index.m3u8
+#EXTINF:-1,RTL Television
+http://185.85.152.220:8787/play/a057/index.m3u8
+#EXTINF:-1,RTLZWEI
+http://185.85.152.220:8787/play/a058/index.m3u8
+#EXTINF:-1,RTSH 1 HD
+http://185.85.152.220:8787/play/52/index.m3u8
+#EXTINF:-1,RTSH 2 HD
+http://185.85.152.220:8787/play/53/index.m3u8
+#EXTINF:-1,RTSH 24 HD
+http://185.85.152.220:8787/play/64/index.m3u8
+#EXTINF:-1,RTSH 3 HD
+http://185.85.152.220:8787/play/54/index.m3u8
+#EXTINF:-1,RTSH Film
+http://185.85.152.220:8787/play/55/index.m3u8
+#EXTINF:-1,RTSH SPORT
+http://185.85.152.220:8787/play/a067/index.m3u8
+#EXTINF:-1,RTSH Shqip
+http://185.85.152.220:8787/play/56/index.m3u8
+#EXTINF:-1,RTV 21
+http://185.85.152.220:8787/play/a05n/index.m3u8
+#EXTINF:-1,RTV 21 MAK 
+http://185.85.152.220:8787/play/a05p/index.m3u8
+#EXTINF:-1,RTV 21 Mix
+http://185.85.152.220:8787/play/a05u/index.m3u8
+#EXTINF:-1,RTV 21 Popullore
+http://185.85.152.220:8787/play/a05q/index.m3u8
+#EXTINF:-1,RTV21 Junior
+http://185.85.152.220:8787/play/a05r/index.m3u8
+#EXTINF:-1,RTV21 Plus
+http://185.85.152.220:8787/play/a05t/index.m3u8
+#EXTINF:-1,Rozafa tv
+http://185.85.152.220:8787/play/6557/index.m3u8
+#EXTINF:-1,SUPER RTL
+http://185.85.152.220:8787/play/a059/index.m3u8
+#EXTINF:-1,SYRI HD
+http://185.85.152.220:8787/play/105/index.m3u8
+#EXTINF:-1,Scan HD
+http://185.85.152.220:8787/play/70/index.m3u8
+#EXTINF:-1,TV Apollon
+http://185.85.152.220:8787/play/a05m/index.m3u8
+#EXTINF:-1,TV Blu Sky
+http://185.85.152.220:8787/play/10009/index.m3u8
+#EXTINF:-1,TV Lezha
+http://185.85.152.220:8787/play/a05y/index.m3u8
+#EXTINF:-1,TV5MONDE EUROPE HD
+http://185.85.152.220:8787/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="Top Channel HD",Top Channel HD
+http://185.85.152.220:8787/play/51/index.m3u8
+#EXTINF:-1,Top NEWS HD
+http://185.85.152.220:8787/play/100/index.m3u8
+#EXTINF:-1 tvg-id="Tring Family HD",Tring Family HD
+http://185.85.152.220:8787/play/a05l/index.m3u8
+#EXTINF:-1,VOX
+http://185.85.152.220:8787/play/a05a/index.m3u8
+#EXTINF:-1,Zjarr TV
+http://185.85.152.220:8787/play/a05x/index.m3u8
+#EXTINF:-1,ntv
+http://185.85.152.220:8787/play/a05c/index.m3u8

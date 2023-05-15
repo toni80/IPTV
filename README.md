@@ -1,2 +1,0 @@
-# IPTV
-EDMW VOD
